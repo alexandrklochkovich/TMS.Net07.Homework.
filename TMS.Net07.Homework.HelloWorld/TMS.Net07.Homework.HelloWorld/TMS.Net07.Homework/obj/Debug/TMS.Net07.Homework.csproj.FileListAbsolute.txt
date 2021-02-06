@@ -1,0 +1,14 @@
+C:\Users\Aleksander\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.HelloWorld\TMS.Net07.Homework\TMS.Net07.Homework\bin\Debug\TMS.Net07.Homework.exe.config
+C:\Users\Aleksander\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.HelloWorld\TMS.Net07.Homework\TMS.Net07.Homework\bin\Debug\TMS.Net07.Homework.exe
+C:\Users\Aleksander\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.HelloWorld\TMS.Net07.Homework\TMS.Net07.Homework\bin\Debug\TMS.Net07.Homework.pdb
+C:\Users\Aleksander\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.HelloWorld\TMS.Net07.Homework\TMS.Net07.Homework\obj\Debug\TMS.Net07.Homework.csprojAssemblyReference.cache
+C:\Users\Aleksander\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.HelloWorld\TMS.Net07.Homework\TMS.Net07.Homework\obj\Debug\TMS.Net07.Homework.csproj.CoreCompileInputs.cache
+C:\Users\Aleksander\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.HelloWorld\TMS.Net07.Homework\TMS.Net07.Homework\obj\Debug\TMS.Net07.Homework.exe
+C:\Users\Aleksander\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.HelloWorld\TMS.Net07.Homework\TMS.Net07.Homework\obj\Debug\TMS.Net07.Homework.pdb
+C:\Users\Aleksander\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.HelloWorld\TMS.Net07.Homework.HelloWorld\TMS.Net07.Homework\bin\Debug\TMS.Net07.Homework.exe.config
+C:\Users\Aleksander\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.HelloWorld\TMS.Net07.Homework.HelloWorld\TMS.Net07.Homework\bin\Debug\TMS.Net07.Homework.exe
+C:\Users\Aleksander\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.HelloWorld\TMS.Net07.Homework.HelloWorld\TMS.Net07.Homework\bin\Debug\TMS.Net07.Homework.pdb
+C:\Users\Aleksander\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.HelloWorld\TMS.Net07.Homework.HelloWorld\TMS.Net07.Homework\obj\Debug\TMS.Net07.Homework.csprojAssemblyReference.cache
+C:\Users\Aleksander\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.HelloWorld\TMS.Net07.Homework.HelloWorld\TMS.Net07.Homework\obj\Debug\TMS.Net07.Homework.csproj.CoreCompileInputs.cache
+C:\Users\Aleksander\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.HelloWorld\TMS.Net07.Homework.HelloWorld\TMS.Net07.Homework\obj\Debug\TMS.Net07.Homework.exe
+C:\Users\Aleksander\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.HelloWorld\TMS.Net07.Homework.HelloWorld\TMS.Net07.Homework\obj\Debug\TMS.Net07.Homework.pdb
