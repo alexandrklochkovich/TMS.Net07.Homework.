@@ -1,0 +1,7 @@
+C:\Users\Aleksander\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.DaysOfWeak\TMS.Net07.Homework.DaysOfWeak\TMS.Net07.Homework.DaysOfWeak\bin\Debug\TMS.Net07.Homework.DaysOfWeak.exe.config
+C:\Users\Aleksander\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.DaysOfWeak\TMS.Net07.Homework.DaysOfWeak\TMS.Net07.Homework.DaysOfWeak\bin\Debug\TMS.Net07.Homework.DaysOfWeak.exe
+C:\Users\Aleksander\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.DaysOfWeak\TMS.Net07.Homework.DaysOfWeak\TMS.Net07.Homework.DaysOfWeak\bin\Debug\TMS.Net07.Homework.DaysOfWeak.pdb
+C:\Users\Aleksander\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.DaysOfWeak\TMS.Net07.Homework.DaysOfWeak\TMS.Net07.Homework.DaysOfWeak\obj\Debug\TMS.Net07.Homework.DaysOfWeak.csprojAssemblyReference.cache
+C:\Users\Aleksander\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.DaysOfWeak\TMS.Net07.Homework.DaysOfWeak\TMS.Net07.Homework.DaysOfWeak\obj\Debug\TMS.Net07.Homework.DaysOfWeak.csproj.CoreCompileInputs.cache
+C:\Users\Aleksander\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.DaysOfWeak\TMS.Net07.Homework.DaysOfWeak\TMS.Net07.Homework.DaysOfWeak\obj\Debug\TMS.Net07.Homework.DaysOfWeak.exe
+C:\Users\Aleksander\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.DaysOfWeak\TMS.Net07.Homework.DaysOfWeak\TMS.Net07.Homework.DaysOfWeak\obj\Debug\TMS.Net07.Homework.DaysOfWeak.pdb
