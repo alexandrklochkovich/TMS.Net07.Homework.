@@ -1,0 +1,7 @@
+C:\Users\Aleksander\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.ConvertMoney\TMS.Net07.Homework.ConvertMoney\TMS.Net07.Homework.ConvertMoney\obj\Debug\TMS.Net07.Homework.ConvertMoney.csprojAssemblyReference.cache
+C:\Users\Aleksander\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.ConvertMoney\TMS.Net07.Homework.ConvertMoney\TMS.Net07.Homework.ConvertMoney\obj\Debug\TMS.Net07.Homework.ConvertMoney.csproj.CoreCompileInputs.cache
+C:\Users\Aleksander\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.ConvertMoney\TMS.Net07.Homework.ConvertMoney\TMS.Net07.Homework.ConvertMoney\bin\Debug\TMS.Net07.Homework.ConvertMoney.exe.config
+C:\Users\Aleksander\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.ConvertMoney\TMS.Net07.Homework.ConvertMoney\TMS.Net07.Homework.ConvertMoney\bin\Debug\TMS.Net07.Homework.ConvertMoney.exe
+C:\Users\Aleksander\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.ConvertMoney\TMS.Net07.Homework.ConvertMoney\TMS.Net07.Homework.ConvertMoney\bin\Debug\TMS.Net07.Homework.ConvertMoney.pdb
+C:\Users\Aleksander\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.ConvertMoney\TMS.Net07.Homework.ConvertMoney\TMS.Net07.Homework.ConvertMoney\obj\Debug\TMS.Net07.Homework.ConvertMoney.exe
+C:\Users\Aleksander\source\repos\TMS.Net07.Homework\TMS.Net07.Homework.ConvertMoney\TMS.Net07.Homework.ConvertMoney\TMS.Net07.Homework.ConvertMoney\obj\Debug\TMS.Net07.Homework.ConvertMoney.pdb
